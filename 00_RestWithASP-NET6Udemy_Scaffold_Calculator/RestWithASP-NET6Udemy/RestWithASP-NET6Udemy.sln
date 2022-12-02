@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33122.133
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RestWithASP-NET6Udemy", "RestWithASP-NET6Udemy\RestWithASP-NET6Udemy.csproj", "{B8212094-1568-487C-BC18-F3F96D0ECE23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestWithASP-NET6Udemy", "RestWithASP-NET6Udemy\RestWithASP-NET6Udemy.csproj", "{B8212094-1568-487C-BC18-F3F96D0ECE23}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
